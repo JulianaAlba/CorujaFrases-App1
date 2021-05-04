@@ -1,7 +1,10 @@
 
-### Aplicativo gerador de frases
+## Aplicativo Gerador de Frases
 #### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App1
 
+
+
+### Conceitos | Implementações:
 - Widgets e Material design
 - Estrutura de um App
 - Colunas e linhas
@@ -15,7 +18,10 @@
 
 
 
-## Getting Started
+<img src = 'imagens/CorujaFrases.gif' width='350'/> 
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
