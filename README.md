@@ -1,6 +1,19 @@
-# primeiroappflutterfinal
 
-Meu primeiro app final flutter do Curso
+### Aplicativo gerador de frases
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App1
+
+- Widgets e Material design
+- Estrutura de um App
+- Colunas e linhas
+- Formatação de textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold
+- Stateless & Stateful
+
+
 
 ## Getting Started
 
